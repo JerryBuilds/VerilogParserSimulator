@@ -2,6 +2,8 @@
 This program parses and compiles a structural gate-level netlist in Verilog.
 After compilation, the program will compute the final output based upon provided input values.
 
+I suggest you view this in raw mode so the format of each file is clear.
+
 If any part of this documentation appears unclear, please don't hesitate to email me (public email).
 Please put the name of the github repository in the subject.
 
@@ -50,4 +52,3 @@ To build the program, type:
 make
 To run the program, type:
 ./gsim verilog_file input_sim_file output_sim_file
- 
