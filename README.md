@@ -50,3 +50,4 @@ To build the program, type:
 make
 To run the program, type:
 ./gsim verilog_file input_sim_file output_sim_file
+ 
