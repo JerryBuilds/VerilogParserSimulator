@@ -1,0 +1,13 @@
+Enter readin func
+Every PI in the simulation file exists in the design
+In every test case, every input net is given a test value
+All test input values are either '0', '1', or 'X'
+No errors for the test simulation file!
+readIn works!
+
+
+Enter toposort()
+
+
+calculate works
+writeOut works!
